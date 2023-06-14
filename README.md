@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Регулярные выражения»
 
-**CI Test** [![Build status](https://ci.appveyor.com/api/projects/status/obu3t2a58l0utlcm?svg=true)](https://ci.appveyor.com/project/kievsan/ajs-regex)
+**CI Test** [![Build status](https://ci.appveyor.com/api/projects/status/obu3t2a58l0utlcm?svg=true)](https://ci.appveyor.com/project/escapefromserpukhov/regex)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
