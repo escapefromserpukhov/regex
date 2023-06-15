@@ -1,3 +1,9 @@
-import moment from 'moment';
+export default class Validator {
+  constructor(username) {
+    this.username = String(username);
+  }
 
-console.log(moment.now());
+  validateUsername() {
+    return /^[a-z]+[a-z-_\d{0,3}]*[a-z]+$/i.test(this.username);
+  }
+}
